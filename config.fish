@@ -1,4 +1,5 @@
 if status is-interactive
-	function fish_prompt
-		echo (pwd) '> '
+end
+
+function fish_greeting
 end
