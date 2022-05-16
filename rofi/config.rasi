@@ -6,6 +6,7 @@ configuration {
   show-icons: true;
   modi: "window,run,drun";
   icon-theme: "Papirus";
+  terminal: "alacritty";
 }
 
 @theme "/dev/null"
@@ -62,7 +63,7 @@ listview {
   padding: 8 12;
   background-color: @bg;
   columns: 1;
-  lines: 8;
+  lines: 5;
 }
 
 mainbox {
