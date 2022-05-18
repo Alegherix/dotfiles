@@ -196,3 +196,6 @@ exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
 # Run Flameshoot for PrintScreen
 bindsym Print exec flameshot gui
+
+# Add Polkit for Customizing Grub
+exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
