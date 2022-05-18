@@ -1,0 +1,11 @@
+set statusbar-h-padding 0
+set statusbar-v-padding 0
+map f toggle_fullscreen
+map D scroll half_down
+map U scroll half_up
+set default-bg "#1d2021"
+set recolor true
+#set font "Jetbrains Mono 16"
+set recolor-lightcolor "#111111"
+#set recolor-darkcolor "#a3d333"
+set recolor-darkcolor "#eee"
