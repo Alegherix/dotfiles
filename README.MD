@@ -9,6 +9,7 @@ This is my setup of personal dotfiles to use whenever setting up a new system.
 - **Terminal**: Alacritty
 - **Filemanager**: Ranger
 - **Bar**: Polybar
+- **Compositor**: Picom
 - **Editor**: VScode
 - **Discord**: BetterDiscord
 - **Spotify**: Spicetify
